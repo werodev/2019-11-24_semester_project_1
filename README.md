@@ -33,7 +33,7 @@ This is clean HTML / CSS project so just:
 
 1. Clone this repo:
 ```
-git clone git@github.com:werodev/2021-11-20_PE1_Weronika_Derkowska.git
+git clone git@github.com:werodev/2019-11-24_semester_project_1.git
 ```
 
 ### Running
