@@ -1,6 +1,6 @@
 # Project Semester 1
 
-
+![semester_project_1](https://user-images.githubusercontent.com/47947621/175758774-28448ade-a966-47ec-80f0-0247a13974f1.png)
 
 Interactive, informative and appealing Community Science Museum website. Target audience - primary and middle school children and their families. Design cannot be childish, target audience is inquisitive and inteligent. Website should be responsive and be easy to use on different types of devices.
 
@@ -51,7 +51,7 @@ Things we struggle the most with, are the ones we cherish, in this case it was p
 
 ## Preview
 
-
+[Explore Together](https://62b69255fe72212eda6bae86--chipper-chimera-2c0f4f.netlify.app/)
 
 ## Contact
 
